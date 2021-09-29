@@ -1,0 +1,14 @@
+com/sawalicreation/MainActivity.java
+ com.sawalicreation.MainActivity
+com/sawalicreation/BuildConfig.java
+ com.sawalicreation.BuildConfig
+com/sawalicreation/ReactNativeFlipper.java
+ com.sawalicreation.ReactNativeFlipper
+ com.sawalicreation.ReactNativeFlipper$1
+ com.sawalicreation.ReactNativeFlipper$2
+ com.sawalicreation.ReactNativeFlipper$2$1
+com/sawalicreation/MainApplication.java
+ com.sawalicreation.MainApplication
+ com.sawalicreation.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
